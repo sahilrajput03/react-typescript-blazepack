@@ -10,7 +10,7 @@ Execute below commands:
 $ git clone https://github.com/sahilrajput03/react-typescript-blazepack react-typescript-app
 $ cd react-typescript-app
 $ ./by add @types/react @types/react-dom
-$ blazepack #To run the typescript app.
+$ blazepack #To run our `react-typescript-app`.
 ```
 
 We are only installing required types i.e., `@types/react` and `@types/react-dom` using a bash program named`by` (stands for `BlazepackYarn`) to manage/install/remove required types for the IDE to get types for the libraries we are using.
