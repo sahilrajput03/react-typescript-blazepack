@@ -15,7 +15,7 @@ $ blazepack #To run the typescript app.
 
 We are only installing required types i.e., @types/react`and`@types/react-dom via `by`(`blazepackyarn` ) bash script.
 
-### Optional: Other desirable type definition packages installation and removal:
+#### Optional: Other desirable type definition packages installation and removal:
 
 ```bash
 #Install other desirable type definitions via -
