@@ -4,6 +4,8 @@ This is a proposal of using `react-typescript-app` with [`blazepack`](https://gi
 
 ## How to use
 
+- If you are a windows user please use `git-bash`/`msys`/`msys2` terminal.
+
 Execute below commands:
 
 ```bash
