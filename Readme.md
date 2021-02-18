@@ -1,6 +1,6 @@
-# Early access to `react-typescript-app` template for blazepack
+# Early access to `react-typescript-app` template for [blazepack](https://github.com/ameerthehacker/blazepack)
 
-This is a proposal of using `react-typescript-app` with `blazepack`(an over the air bundler).
+This is a proposal of using `react-typescript-app` with [`blazepack`](https://github.com/ameerthehacker/blazepack)(an over the air bundler).
 
 ## How to use
 
