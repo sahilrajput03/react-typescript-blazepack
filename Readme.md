@@ -11,9 +11,7 @@ This is a proposal of using `react-typescript-app` with [`blazepack`](https://gi
 Execute below commands:
 
 ```bash
-git clone https://github.com/sahilrajput03/react-typescript-blazepack react-typescript-app
-cd react-typescript-app
-rm -rf .git # Remove `.git` folder
+git clone https://github.com/sahilrajput03/react-typescript-blazepack react-typescript-app && cd react-typescript-app && rm -rf .git
 ./by # Installs only @types/react and @types/react-dom required for vscode intellisense and autocompletion
 code . # Opens up our project folder in vscode
 blazepack # To run our `react-typescript-app`
