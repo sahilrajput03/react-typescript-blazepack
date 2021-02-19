@@ -12,6 +12,7 @@ Execute below commands:
 
 ```bash
 git clone https://github.com/sahilrajput03/react-typescript-blazepack react-typescript-app
+rm -rf .git # Remove `.git` folder
 cd react-typescript-app
 ./by # Installs only @types/react and @types/react-dom required for vscode intellisense and autocompletion
 code . # Opens up our project folder in vscode
