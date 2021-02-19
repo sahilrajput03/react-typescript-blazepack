@@ -14,6 +14,7 @@ Execute below commands:
 git clone https://github.com/sahilrajput03/react-typescript-blazepack react-typescript-app
 cd react-typescript-app
 ./by
+code .
 blazepack #To run our `react-typescript-app`.
 ```
 
